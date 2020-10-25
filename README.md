@@ -25,5 +25,7 @@ In summary, the differences of the ride-sharing data between city types can offe
 1.	Keep or improve a quality service in the urban city type areas to maintain the successful rates.
 2.	Concentrate on providing an affordable service in the suburban areas, even though the service in these areas is not as needed as in the urban areas, providing an affordable service around popular businesses in which the client might prefer not to bring its own car for example: airports, nightclubs, train stations, etc. could improve and increased the use of ride services in these city types.
 3.	In the rural areas where houses and businesses are commonly located afar from each other, it is normal that most people own personal vehicles, thus the need for ride services is close to zero and when needed since there are so few offering the service the prices might be too high. ByPer might consider:
+
 a.	Offering the service with a slightly different approach when it comes to Rural areas, besides offering the ride service, ByPer could offer a service of delivering goods (groceries, medicines, food, etc.) so the customer could opt for paying a fair amount to do the basics without going all the way to the nearest town, saving in gas and helping the environment. 
+
 b.	Re-directing the efforts and teams in theses areas to a suburban or urban area and just not offering the services in the rural areas.
